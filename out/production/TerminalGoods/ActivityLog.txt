@@ -1,0 +1,14 @@
+REGISTRATION - username: Arsha
+REGISTRATION - username: Amir
+USER VERIFICATION - username: Admin - verified username: Amir
+ITEM ADDITION - username: Amir - ID: 00000000-1 - name: Bioshock - price: 1000
+ITEM ADDITION - username: Amir - ID: 00000000-2 - name: Bioshock - price: 1000000
+ITEM ADDITION - username: Amir - ID: 00000001-1 - name: Samand - price: 102301230123123
+ITEM REMOVAL - username: Amir - ID: 00000000-1 - name: Bioshock - price: 1000
+BALANCE ADDITION - username: Arsha - added balance: 1000000000
+BALANCE ADDITION - username: Arsha - added balance: 1231231231233
+BALANCE ADDITION - username: Arsha - added balance: 1
+ITEM PURCHASE - username: Arsha - ID: 00000000-1 - name: Bioshock - price: 1000000
+ITEM REMOVAL - username: Admin - ID: 00000001-1 - name: Samand - price: 102301230123123
+USER REMOVAL - username: Admin - removed username: Amir
+USER REMOVAL - username: Admin - removed username: Arsha
